@@ -1,0 +1,13 @@
+{
+  "files.trimFinalNewlines": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.autoClosingQuotes": "always",
+  "editor.formatOnSave": true,
+  "eslint.codeAction.showDocumentation": {
+    "enable": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.run": "onSave"
+}
